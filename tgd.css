@@ -134,13 +134,13 @@ display:none;
 }
 
 .badge.badge-live::after {
-  content: '생방송 중 입니다!';
+  /*content: '생방송 중 입니다!';
   color: white !important;
-  font-size: 13px !important;
+  font-size: 13px !important;*/
 }
 #viewers-area {margin-left:5px;}
 #viewers::after {
-  content: '명의 여행자들';
+  content: '명의 여행자';
 }
 
 #board-info #board-info-bottom {
