@@ -399,10 +399,19 @@ footer {
   background: white !important;
 }
 
+
+#article-list>.article-list-row:hover .v0>span {
+	background:#f1f1f1 !important;
+}
+
+
 .v0>span {
   background: #f3f2f0 !important;
   color: #f3f2f0 !important;
 }
+
+
+
 
 .dropdown-menu {
   text-shadow: none;
@@ -447,9 +456,6 @@ footer {
   color: #000 !important;
 }
 
-#article-list>.article-list-row:hover>.item>.list-header.v0>span {
-	background:#f1f1f1 !important;
-}
 
 #boardSearchForm * {
   background: transparent !important;
