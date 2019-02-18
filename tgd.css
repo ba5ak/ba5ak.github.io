@@ -208,9 +208,6 @@ header #header-bar a.dropdown-toggle {
   border-radius: 5px 5px 0 0;
 	margin-top:8px;
 }
-#article-list>.article-list-row>.item>.list-title>.list-category {
-font: normal normal normal 14px/1 FontAwesome;
-}
 
 #article-list>#article-list-category>a:first-child {
   border-radius: 5px 0 0 0;
