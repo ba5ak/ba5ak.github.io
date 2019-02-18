@@ -125,7 +125,7 @@ header #header-bar a.dropdown-toggle {
 }
 #board-info h1 .badge {margin-left:5px;}
 #board-info h1 .badge.badge-default {
-	display:none;
+	/*display:none;*/
 }
 #board-info h1>a.badge.badge-live::after {
   content: '생방송 Go';
