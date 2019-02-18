@@ -402,7 +402,7 @@ footer {
 
 #article-list>.article-list-row:hover .v0>span {
 	background:#fafafa !important;
-	color:#fafafa;
+	color:#fafafa !important;
 }
 
 
