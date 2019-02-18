@@ -125,18 +125,18 @@ header #header-bar a.dropdown-toggle {
 }
 #board-info h1 .badge {margin-left:5px;}
 
-.badge-default::after,
-.badge-success::after{ 
-display:none; 
+.badge-default,
+.badge-success{ 
+	display:none; 
 /*content: '방송 오프라인';
   color: white !important;
   font-size: 13px !important;*/
 }
 
 .badge.badge-live::after {
-  /*content: '생방송 중 입니다!';
+  content: '생방송 중 입니다!';
   color: white !important;
-  font-size: 13px !important;*/
+  font-size: 13px !important;
 }
 #viewers-area {margin-left:5px;}
 #viewers::after {
