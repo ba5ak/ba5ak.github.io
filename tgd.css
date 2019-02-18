@@ -195,7 +195,7 @@ header #header-bar a.dropdown-toggle {
 /* 게시글 관련부분 */
 
 #article-list {
-  margin-top: 0;
+  margin-top:8px;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer>span {
@@ -206,7 +206,6 @@ header #header-bar a.dropdown-toggle {
   border-top: none !important;
   background: #037c98;
   border-radius: 5px 5px 0 0;
-	margin-top:8px;
 }
 
 #article-list>#article-list-category>a:first-child {
@@ -263,6 +262,7 @@ header #header-bar a.dropdown-toggle {
   color: #037c98;
 }
 
+#article-info {margin-top:8px;}
 #article-info>h2 {
   font-weight: bold;
 }
@@ -388,7 +388,7 @@ header #header-bar #header-menu-left {
 }
 
 footer * {
-  color: white !important;
+  color: white;
 }
 
 footer {
