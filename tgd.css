@@ -315,6 +315,7 @@ header {
   margin-bottom: 1em;
   padding-bottom: 0;
   background: #037c98;
+ border-bottom: 8px solid #256383;
 }
 header:hover{
 }
