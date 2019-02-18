@@ -125,8 +125,8 @@ header #header-bar a.dropdown-toggle {
 }
 #board-info h1 .badge {margin-left:5px;}
 
-.badge-default,
-.badge-success{ 
+.badge-default::after,
+.badge-success::after{ 
 /*display:none; */
 content: '방송 오프라인';
   color: white !important;
