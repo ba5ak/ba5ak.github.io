@@ -127,7 +127,7 @@ header #header-bar a.dropdown-toggle {
 
 .badge-default,
 .badge-success{ 
-display:none 
+/*display:none; */
 content: '방송 오프라인';
   color: white !important;
   font-size: 13px !important;
