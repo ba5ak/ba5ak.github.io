@@ -19,7 +19,7 @@ html {
 
 body {
   background: transparent;
-  font-family: 'Noto Sans KR', 'Spoqa Han Sans', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   letter-spacing: -0.02em !important;
   transition:.2s;
 }
