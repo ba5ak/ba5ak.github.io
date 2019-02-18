@@ -262,7 +262,6 @@ header #header-bar a.dropdown-toggle {
   color: #037c98;
 }
 
-#article-info {margin-top:8px;}
 #article-info>h2 {
   font-weight: bold;
 }
@@ -418,6 +417,7 @@ footer {
 #article-info {
   border-radius: 5px 5px 0 0;
   background: #585d6d;
+	margin-top:8px;
 }
 
 #article-info * {
