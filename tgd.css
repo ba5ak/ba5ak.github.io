@@ -124,10 +124,11 @@ header #header-bar a.dropdown-toggle {
   border-bottom: none;
 }
 #board-info h1 .badge {margin-left:5px;}
-#board-info h1 .badge.badge-default {
-	/*display:none;*/
-}
-#board-info h1>a.badge.badge-live::after {
+
+.badge-default,
+.badge-success{ display:none }
+
+.badge.badge-live::after {
   content: '생방송 Go';
   color: white !important;
   font-size: 13px !important;
