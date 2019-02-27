@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 ::selection {
   background: #00B8D4;
@@ -19,7 +19,7 @@ html {
 
 body {
   background: transparent;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Lato', 'Noto Sans KR', sans-serif;
   letter-spacing: -0.02em !important;
   transition:.2s;
 }
