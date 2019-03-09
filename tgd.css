@@ -223,10 +223,14 @@ header #header-bar a.dropdown-toggle {
   background: #037c98 !important;
   color: white !important;
 }
+#article-list #article-list-category>a.active {
+  background: #026278 !important;
+  color: #FFD54F !important;
+}
 
 #article-list>.article-list-row>.item>.list-header>span {
   background-color: #ff768c;
-	padding: 1px 6px;
+  padding: 1px 6px;
 }
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
