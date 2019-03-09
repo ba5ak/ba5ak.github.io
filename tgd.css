@@ -223,7 +223,8 @@ header #header-bar a.dropdown-toggle {
   background: #037c98 !important;
   color: white !important;
 }
-#article-list #article-list-category>a.active {
+#article-list #article-list-category > a.active, 
+#article-list #article-list-category>a:hover {
   background: #026278 !important;
   color: #FFD54F !important;
 }
