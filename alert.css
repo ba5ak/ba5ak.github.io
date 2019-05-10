@@ -23,6 +23,7 @@
 /* Name text color ---------- */
 
 #alert-text span#nickname span,
-#alert-text span#amount span, 
+#alert-text span#amount span,
+#alert-text span#month span,
 #alert-message span {color:#ffcc00 !important} 
 
