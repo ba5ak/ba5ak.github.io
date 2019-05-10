@@ -1,9 +1,16 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css); 
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
+/* Twip  */
+#alertbox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
+
+/* Steamlabs */
 .widget-AlertBox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
-#alert-text {text-shadow: black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px !important;}
+
+#alert-text {
+    text-shadow: black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px !important;
+}
 
 #alert-message {}
 #alert-message span {color:#ffcc00 !important} /* 이름 */
