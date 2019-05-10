@@ -1,12 +1,16 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css); 
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
-/* Twip  */
+/* Twip   ---------- */
 #alertbox *,
 #alertbox h1,
 #alertbox h2 {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
-/* Steamlabs */
+{color:#ffcc00 !important} /* 이름 */
+
+
+
+/* Steamlabs  ---------- */
 .widget-AlertBox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
 
@@ -15,6 +19,12 @@
 }
 
 #alert-message {}
-#alert-message span {color:#ffcc00 !important} /* 이름 */
-
 #alert-user-message {}
+
+
+/* Name text color ---------- */
+
+#alert-text span#nickname,
+#alert-text span#amount, 
+#alert-message span {color:#ffcc00 !important} 
+
