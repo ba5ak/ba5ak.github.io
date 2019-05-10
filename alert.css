@@ -2,7 +2,9 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 /* Twip  */
-#alertbox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
+#alertbox *,
+#alertbox h1,
+#alertbox h2 {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
 /* Steamlabs */
 .widget-AlertBox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
