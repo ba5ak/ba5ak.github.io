@@ -6,8 +6,6 @@
 #alertbox h1,
 #alertbox h2 {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
-{color:#ffcc00 !important} /* 이름 */
-
 
 
 /* Steamlabs  ---------- */
@@ -24,7 +22,7 @@
 
 /* Name text color ---------- */
 
-#alert-text span#nickname,
-#alert-text span#amount, 
+#alert-text span#nickname span,
+#alert-text span#amount span, 
 #alert-message span {color:#ffcc00 !important} 
 
