@@ -12,10 +12,15 @@
 .widget-AlertBox * {font-family: "nanumgothic", "Noto sans kr", "Spoqa Han Sans", Helvetica, sans-serif  !important;}
 
 
-#alert-text {
+
+#alertbox h1, /* t */
+#alertbox h2, /* t */
+#alert-text /* s */ {
     text-shadow: black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px,black 0px 0px 3px !important;
 }
 
+
+/* Steamlabs  ---------- */
 #alert-message {}
 #alert-user-message {}
 
